@@ -1,20 +1,18 @@
 ---
 title: About Me
-subtitle: This is a short page about me and my work
+subtitle: So
 img_path: images/about.jpg
+layout: page
 menu:
   main:
     name: About
     weight: 2
-layout: page
+
 ---
+I started my education at York University in Toronto where I studied health and exercise science and received my degree with a specialized honors. I quickly realized I still wanted to learn more and decided that naturopathic medicine would be the right path for me. I went on and graduated from the Canadian College of Naturopathic Medicine. 
 
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+After practicing in Toronto for a bit I took the leap and started a new job out in Thailand at a luxury wellness resort. After working in Thailand for a few years I ended up taking another job in Hong Kong helping to launch and develop parts of a new wellness concept for another ultra luxury property.
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
+And now I am back in Thailand, doing more research and development while still consulting with guests. The best of both worlds, for me anyways.
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
-
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
-
-*Thank You for reading!*
+_Thank You for reading!_
