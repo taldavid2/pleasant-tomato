@@ -1,6 +1,6 @@
 ---
 title: About Me
-subtitle: So
+subtitle: Really want to know more? Okkkk
 img_path: images/about.jpg
 layout: page
 menu:
